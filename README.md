@@ -1,2 +1,4 @@
-# personal-projects
-Personal Projects of the Ian E. CCS employees.
+# <CENTER> A GITHUB REPOSITORY OF: <BR /> IAN E. CUSTOM CONSUMER SERVICES <BR /> ------------------------------------------- <BR /> EMPLOYEE PERSONAL PROJECTS (EPP) REPOSITORY </CENTER>
+Contained in this GitHub Public Repository is the public releases of the personal projects undertaken by employees of Ian E. Custom Consumer Services. These were taken on with company resorces after completeing, filing, and getting an EPP request approved. <BR /><BR />
+# LICENSE
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">All work in the  Ian E. CCS Employee personal project (EPP) GitHub repository</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="copyrights@iane-ccs.com" rel="cc:morePermissions">copyrights@iane-ccs.com</a>.
